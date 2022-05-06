@@ -10,7 +10,7 @@ O projeto é open source e contrbuições são sim muito bem vindas!
 
 ```
 git clone git@github.com:whitenode32/web3brasil.git
-cd mev-geth
+cd web3brasil
 make geth
 ```
 No cenário ideal, um dia teremos aqui toda a documentação da Flashbots e do Go-Ethereum traduzida em português para auxiliar a compreenção entretanto, para rodar o node não é necessário ter conhecimentos avançados. 
