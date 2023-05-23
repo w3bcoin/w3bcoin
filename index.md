@@ -23,9 +23,10 @@ O ecossistema entrega possibilidades ilimitadas ao permitir que pessoas possam d
 
 Portanto com a rede ethereum qualquer pesoa com o conhecimento do funcionamento da rede e médio entendimento da linguágem solidity pode criar suas próprias aplicações em blockchain. Além o  código da Ethereum é aberto, por isso, assim como a W3B diversas novas redes tem surgido trazendo melhorias ou agragando funcionalidades que o sitema Ethereum não trouxe. Dois pontos que as comunidades tem desejado de melhoria na rede ethereum são Custo e Documentação em sua própria língua.
 
-    • Custo:Os custos da rede Ethereum são altos demais, fazendo com que a marioria dos projetos só ejam viáveis se forem focados em ticket médio ou alto, portanto excluindo as comunidades de menor poder aquisitivo.
+    - Custo:
+    Os custos da rede Ethereum são altos demais, fazendo com que a marioria dos projetos só ejam viáveis se forem focados em ticket médio ou alto, portanto excluindo as comunidades de menor poder aquisitivo.
 
-    • Língua: 
+    - Língua: 
 Outra grande dificuldade na adoção do Ethereum como plataforma de processamento e de negócios é o não ter documentação na lingua nativa do desenvolvedor mirim.
 	
 
