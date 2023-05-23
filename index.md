@@ -11,17 +11,17 @@ Introdução
 
 Web do Brasil é uma rede baseada em Ethereum, porém voltada à comunidade Brasileira. Pra que você entenda nossa blockchain primeiramente é necessário falarmos do Ethereum.
 
-Desde o lançamento da Primeira moeda virtual o Bitcoin, em 2019 o ambiente de moedas virtuais tem se expandido e se tornado cada vez mais rentável.
+Desde o lançamento da Primeira moeda virtual o Bitcoin, em 2009 o ambiente de moedas virtuais tem se expandido e se tornado cada vez mais rentável.
 
-Enquanto o Bitcoin foi quem abriu o caminho para esta revolução, o ecossistema Ethereum que veio mais tarde agregou ao contexto uma das mais importantes funcionalidade que hoje faz-se indispensável ao mercado de cripto moedas: Os contratos inteligentes.
+Enquanto o Bitcoin foi quem abriu o caminho para esta revolução, o ecossistema Ethereum que veio mais tarde agregou ao contexto uma das mais importantes funcionalidades que hoje faz-se indispensável ao mercado de cripto moedas: Os contratos inteligentes.
 
-A rede Ethereum por outro lado foi pensada para este propósito desde o início.  O propósito da criação do Ethereum foi o de condicionar uma plataforma de computação distribuída disponível a todos. O ecossistema Ethereum é composto por um processador virtual, um sistema de armazenamento de dados e uma moeda interna, “empacotados” em um sistema distribuída, desenhado para rodar sobre uma rede p2p alcançável por toda pessoa que tenha acesso à internet.
+O propósito da criação do Ethereum foi o de condicionar uma plataforma de computação distribuída disponível a todos. O ecossistema Ethereum é composto por um processador virtual, um sistema de armazenamento de dados e uma moeda interna, “empacotados” em um sistema distribuído, desenhado para rodar sobre uma rede p2p alcançável por toda pessoa que tenha acesso à internet.
 
 A existência de tal rede só é possível graças ao mecanismo de incentivos existente dentro do ecossistema, que permite que pessoas que forneçam serviço à rede (processamento computacional) e recebam recompensas atrativas por fazê-lo.  As recompensas são pagas em Ether que é a moeda do ecossistema Ethereum.
 
-O ecossistema entrega possibilidades ilimitadas ao promover em que pessoas podem desenvolver as mais diversas aplicações, cada uma com suas próprias características e propósito.  Ao longo dos últimos anos, mais enfaticamente nos últimos 3 anos (desde 2019), houve uma explosão enorme do uso do ecossistema Ethereum com o surgimento de diversas aplicações dos mais variados tipos e o laçamento de tokens não fundíveis (NFT’s).  
+O ecossistema entrega possibilidades ilimitadas ao permitir que pessoas possam desenvolver as mais diversas aplicações, cada uma com suas próprias características e propósito e injetá-las na já existente blockchain.  Ao longo dos últimos anos, mais enfaticamente a partir de 2019, houve uma explosão enorme do uso do ecossistema Ethereum com o surgimento de diversas aplicações dos mais variados tipos e a popularização dos tokens não fundíveis (NFT’s)  como Ether Rokcs [https://etherrock.com/], CryptoKitties [https://www.cryptokitties.co/] e a extraordiaria venda de um NFT por $69.000.000,00 (milhões de dólares) do artista Beeple em 2021. 
 
-A Ethereum Foundation (Fundação ethereum) que é a instituição por trás do Ethereum também criou algumas especificações que facilitam em muito a interoperabilidade entre os sistemas criados dentro da rede e sistemas externos.  A exemplo cito a especificação ERC20 que padroniza a criação de tokens fundíveis e a ERC721 que padroniza a criação de tokens não fundíveis (NFT). Enquanto o ecossistema Ethereum trouxe importantíssimas inovações, o mesmo apresenta algumas características indesejáveis e que o deixam bem longe de ser perfeito.  
+A exemplo cito a especificação ERC20 que padroniza a criação de tokens fundíveis e a ERC721 que padroniza a criação de tokens não fundíveis (NFT). Enquanto o ecossistema Ethereum trouxe importantíssimas inovações, o mesmo apresenta algumas características indesejáveis e que o deixam bem longe de ser perfeito.  
 
 Dentre estes, destacamos doisque afetam mais diretamente países de terceiro mundo, fazendo com que a adoção seja lenta e muito filtrada para uma massa que tenha mais poder aquisitivo. São eles:
 
